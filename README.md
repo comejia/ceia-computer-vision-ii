@@ -6,9 +6,12 @@ Aquí se encuentra todo el material utilizado durante el dictado de la asignatur
 
 ## Sobre el repositorio
 
-La rama master contiene el contenido mas actualizado de la materia.
+La rama master contiene el contenido anterior a 2026. Si bien el contenido no cambia drasticamente, el material actualizado se encuentra en la rama:
 
-- [master](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/master)
+- [VpC2_2026](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/VpC2_2026)
+
+
+### Clases y material utilizado (previo a 2026):
 
 ### Clase 1
 Colabs:
