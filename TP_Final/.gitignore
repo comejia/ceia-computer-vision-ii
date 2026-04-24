@@ -1,0 +1,5 @@
+*.DS_Store
+dataset_audio/*
+dataset_images/*
+.venv/
+venv/
